@@ -1,0 +1,12 @@
+version: "3.8"
+services:
+
+  redis:
+    image: redis:5.0
+    ports:
+      - "6379"
+
+  rogue:
+    build: ./rogue
+    ports:
+      - "6379"

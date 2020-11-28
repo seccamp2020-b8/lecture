@@ -8,3 +8,9 @@
 また、実際にこれらの経験を経て海外企業に雇われることになった講師が、どのようにして現在に至ったか、なぜ上記のように学ぶ姿勢が重要なのかについてお話しします。
 
 https://www.ipa.go.jp/jinzai/camp/2020/zenkoku2020_program_list.html#list_b8
+
+## Link
+スライドはSpeaker Deckでも読めます。
+
+- [本編](https://speakerdeck.com/knqyf263/seccamp2020-b8)
+- [MySQL/PostgreSQL編](https://speakerdeck.com/tkmru/seccamp2020-b8)
